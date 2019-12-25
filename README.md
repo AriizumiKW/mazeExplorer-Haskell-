@@ -1,5 +1,5 @@
 # mazeExplorer(Haskell)
-A maze automatically explorer. Writed by Haskell.
+A maze automatically explorer, writed within Haskell.
 
 This is my homework for haskell assignment.
 

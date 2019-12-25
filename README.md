@@ -7,7 +7,7 @@ How to play: W-Upward, A-Left, S-Downwards, D-right.
 
 Input format of maze: examples have been given. 
 
-How to make your own maze: I would recommend you use Randomly Prim Algorithm, which is not too difficult I think.
+How to make your own maze: I would recommend you use Randomly Prim Algorithm, which is not too difficult I think.  
 
 Functional programming is so coooool!
 
